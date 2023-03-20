@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE3B308329C852A100BD86FC /* SecondViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3B308229C852A100BD86FC /* SecondViewViewController.swift */; };
 		BE678E4229C8508A00E11B47 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE678E4129C8508A00E11B47 /* AppDelegate.swift */; };
 		BE678E4429C8508A00E11B47 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE678E4329C8508A00E11B47 /* SceneDelegate.swift */; };
 		BE678E4629C8508A00E11B47 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE678E4529C8508A00E11B47 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BE3B308229C852A100BD86FC /* SecondViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewViewController.swift; sourceTree = "<group>"; };
 		BE678E3E29C8508A00E11B47 /* GitHub_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHub_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE678E4129C8508A00E11B47 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BE678E4329C8508A00E11B47 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				BE678E4129C8508A00E11B47 /* AppDelegate.swift */,
 				BE678E4329C8508A00E11B47 /* SceneDelegate.swift */,
+				BE3B308229C852A100BD86FC /* SecondViewViewController.swift */,
 				BE678E4529C8508A00E11B47 /* ViewController.swift */,
 				BE678E4729C8508A00E11B47 /* Main.storyboard */,
 				BE678E4A29C8508B00E11B47 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				BE678E4629C8508A00E11B47 /* ViewController.swift in Sources */,
 				BE678E4229C8508A00E11B47 /* AppDelegate.swift in Sources */,
 				BE678E4429C8508A00E11B47 /* SceneDelegate.swift in Sources */,
+				BE3B308329C852A100BD86FC /* SecondViewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
