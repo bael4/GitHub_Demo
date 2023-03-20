@@ -12,7 +12,7 @@ let label = UILabel()
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.backgroundColor = .green
+        view.backgroundColor = .blue
         view.addSubview(label)
     }
 
